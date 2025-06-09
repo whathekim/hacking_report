@@ -1,6 +1,6 @@
 # 🔓 Wargame hacking report
 
-![Wargame Report main](https://github.com/your-username/your-repo-name/blob/main/Wargame_report_main.gif?raw=true)
+![Wargame Report Demo](https://github.com/whathekim/hacking_report/blob/main/Wargame_report_main.gif?raw=true)
 
 
 본 프로젝트는 실전 웹 환경을 가정하여, 숨겨진 페이지 탐색부터 파일 업로드 우회 및 리버스 셸 확보, 내부 DB 접근까지의 침투 흐름을 실습한 사례입니다.  
