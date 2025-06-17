@@ -38,5 +38,6 @@
 
 ## 📝 모의해킹 보고서 pdf
 [조범근 모의해킹 보고서 PDF 보기](https://github.com/whathekim/hacking_report/blob/main/%EC%A1%B0%EB%B2%94%EA%B7%BC%20%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+
 [조범근 모의해킹 보고서 PDF 다운로드](https://github.com/whathekim/hacking_report/raw/main/%EC%A1%B0%EB%B2%94%EA%B7%BC%20%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
