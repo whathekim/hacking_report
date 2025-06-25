@@ -10,10 +10,15 @@
 
 ## 🛠️ 사용 도구 및 환경
 
-- Kali Linux (Attacker)
-- Rocky Linux + Apache (Victim)
-- wfuzz, gobuster, netcat, python3, MySQL
-- Wazuh / Suricata (공격 탐지 및 로그 확인)
+Date: 2025년 6월 8일 ~ 6월 24일
+
+Victim OS : Rocky Linux 9.5
+Victim IP: 192.168.5.160 / TeamESG Wargame website
+
+Attacker OS: Kali Linux
+Attacker IP: 192.168.5.~ / 192.168.56.~
+
+Tool: Kali Linux, wfuzz, gobuster, reverseshell 
 
 ---
 
